@@ -1,6 +1,7 @@
 ## Preparation
 First, please set the environment variable.
-```export URL={YOUR_BASE_URL}
+```
+export URL={YOUR_BASE_URL}
 export API_KEY={YORU_API_KEY}
 ```
 
